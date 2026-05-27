@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydender",
+        "uuid": 3320556,
+        "checksum": "jmndq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
